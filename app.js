@@ -6,13 +6,7 @@ var Fruit = Backbone.Model.extend({
 			return('quantity must be a number');
 			}}
 		});
-		
-		
-		
-		
-		
-		
-		kkk
+		//kkk
 		
 var apple = new Fruit({
 	name: 'apple',
